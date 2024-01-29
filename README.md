@@ -5,6 +5,6 @@
 ![Aatrox](https://i.imgur.com/qt4yZVL.gif)
 
 
-> Now, hear the silence of annihilation!
+> I shall choreograph this affair.
 
 This project is about creating a multiplayer pong game website.
